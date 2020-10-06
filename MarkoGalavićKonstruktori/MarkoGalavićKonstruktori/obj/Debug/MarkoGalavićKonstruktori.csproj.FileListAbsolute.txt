@@ -1,0 +1,7 @@
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\bin\Debug\MarkoGalavićKonstruktori.exe.config
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\bin\Debug\MarkoGalavićKonstruktori.exe
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\bin\Debug\MarkoGalavićKonstruktori.pdb
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\obj\Debug\MarkoGalavićKonstruktori.csprojAssemblyReference.cache
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\obj\Debug\MarkoGalavićKonstruktori.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\obj\Debug\MarkoGalavićKonstruktori.exe
+C:\Users\Učenik 3\source\repos\MarkoGalavićKonstruktori\MarkoGalavićKonstruktori\obj\Debug\MarkoGalavićKonstruktori.pdb
